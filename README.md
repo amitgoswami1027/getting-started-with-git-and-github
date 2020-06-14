@@ -1,6 +1,13 @@
 Getting Started With Git and GitHub
 ===================================
 
+## Large File detected
+* git filter-branch -f --index-filter 'git rm --cached --ignore-unmatch Project2_Design, Provision and Monitor AWS Infrastructure at Scale/Exercise_1/.terraform/plugins/windows_amd64/terraform-provider-aws_v2.66.0_x4.exe'
+
+
+
+
+
 Explaining Git and GitHub. Forked from [Jaime Kosoy](https://github.com/jkosoy). The following commands below are to be run in the Terminal.App for Mac OSX or Linux. For a good overview on how to use the Terminal see [this tutorial](http://cli.learncodethehardway.org/book/). There is also a [desktop application](desktop application) for GitHub if you'd prefer to not use the Terminal.App.
 
 ## Some links for more in depth learning
