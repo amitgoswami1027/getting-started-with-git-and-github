@@ -3,6 +3,7 @@ Getting Started With Git and GitHub
 
 ## Large File detected
 * git filter-branch -f --index-filter 'git rm --cached --ignore-unmatch Project2_Design, Provision and Monitor AWS Infrastructure at Scale/Exercise_1/.terraform/plugins/windows_amd64/terraform-provider-aws_v2.66.0_x4.exe'
+* https://medium.com/@marcosantonocito/fixing-the-gh001-large-files-detected-you-may-want-to-try-git-large-file-storage-43336b983272
 
 
 
