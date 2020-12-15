@@ -1,3 +1,9 @@
+Amit Goswami Notes:
+===================
+* To point the git to our repo after cloning: git remote set-url origin https://github.com/amitgoswami1027/deploying-machine-learning-models.git
+
+
+
 Getting Started With Git and GitHub
 ===================================
 Explaining Git and GitHub. Forked from [Jaime Kosoy](https://github.com/jkosoy). The following commands below are to be run in the Terminal.App for Mac OSX or Linux. For a good overview on how to use the Terminal see [this tutorial](http://cli.learncodethehardway.org/book/). There is also a [desktop application](desktop application) for GitHub if you'd prefer to not use the Terminal.App.
@@ -6,7 +12,7 @@ The Git Flow
 ==================
 
 The following snippet is designed to explain Vincent Driessen's [git branching model](http://nvie.com/posts/a-successful-git-branching-model/), at least as well as I understand it. Special thanks to [Stephen Koch](https://twitter.com/skoch) for being the true master here.
-
+* 
 A way to think about Git and Github.
 ------------
 Milestones of milestones of milestones. In other words:
