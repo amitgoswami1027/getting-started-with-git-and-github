@@ -1,7 +1,7 @@
 Amit Goswami Notes:
 ===================
 * To point the git to our repo after cloning: git remote set-url origin https://github.com/amitgoswami1027/deploying-machine-learning-models.git
-
+* Git cheatsheet: https://www.atlassian.com/git/tutorials/atlassian-git-cheatsheet
 
 
 Getting Started With Git and GitHub
